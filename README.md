@@ -1,4 +1,4 @@
-# Teste-estagio-Ribeirao-Preto 1
+# Teste 1
 #include <stdio.h>
 
 int pertenceFibonacci(int numero) {
